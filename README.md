@@ -1,1 +1,1 @@
-# 8_bit_ALU_design
+# 8-Bit-ALU-Design
